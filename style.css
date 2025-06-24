@@ -1,0 +1,27 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(to bottom, #e0f7fa, #e8f5e9);
+    text-align: center;
+    padding: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 1.2em;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    transition: 0.3s;
+  }
+  
+  button:hover {
+    background-color: #388e3c;
+  }
+  
+  .img-fondo {
+    max-width: 100%;
+    border-radius: 15px;
+  }
